@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "716452293251",
+    "firebase_url": "https://baitaplon1-af47b-default-rtdb.firebaseio.com",
+    "project_id": "baitaplon1-af47b",
+    "storage_bucket": "baitaplon1-af47b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716452293251:android:12af25d04de609829409b6",
+        "android_client_info": {
+          "package_name": "com.ssv.appsalephone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716452293251-ivkgr96ara7diqrf99parjb1mqr98856.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5EpQL7EW60qiSQlU02x3n0l2jBR2uMTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716452293251-ivkgr96ara7diqrf99parjb1mqr98856.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
